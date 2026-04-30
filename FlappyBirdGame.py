@@ -137,7 +137,7 @@ def reset_game():
     flappy.rect.y = int(screen_height / 2)
     score = 0
     return score
-
+#resets the game
 # Reading the high score
 def load_high_score():
     try:
