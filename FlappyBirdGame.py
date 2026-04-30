@@ -6,7 +6,7 @@ import random
 pygame.init()
 clock = pygame.time.Clock()
 fps = 60
-
+# First try
 # Set screen dimensions
 screen_width = 800
 screen_height = 900
