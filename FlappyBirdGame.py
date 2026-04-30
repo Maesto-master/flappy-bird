@@ -130,7 +130,7 @@ ground_scroll = 0
 scroll_speed = 4
 
 
-
+#second try
 def reset_game():
     pipe_group.empty()
     flappy.rect.x = 100
